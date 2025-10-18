@@ -1,0 +1,1 @@
+ripgrep ffind node yazi lazygit
