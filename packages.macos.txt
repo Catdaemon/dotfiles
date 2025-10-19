@@ -1,1 +1,1 @@
-ripgrep ffind node yazi lazygit
+powerlevel10k ripgrep ffind markdownlint-cli node yazi lazygit
