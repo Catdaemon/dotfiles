@@ -1,1 +1,0 @@
-powerlevel10k ripgrep ffind markdownlint-cli node yazi lazygit lsd

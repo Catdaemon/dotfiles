@@ -15,7 +15,5 @@ echo "Updating Homebrew..."
 brew update
 
 # Install packages from packages.macos.txt
-echo "Installing packages from packages.macos.txt..."
-xargs brew install < packages.macos.txt
-echo "Package installation complete."
+brew install powerlevel10k ripgrep ffind markdownlint-cli node yazi lazygit lsd
 

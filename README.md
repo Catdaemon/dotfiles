@@ -6,12 +6,9 @@ This uses `chezmoi`.
 
 First, `brew install chezmoi`
 
-Then, run the following command to set up chezmoi with my dotfiles:
+Then, run the following command to set up chezmoi with my dotfiles and install packages:
 
 `chezmoi init --apply catdaemon/dotfiles`
-
-Then, use this script to install necessary dependencies and perform setup:
-`zsh ~/setup.macos.sh`
 
 ## Commands
 
