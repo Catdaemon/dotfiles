@@ -19,3 +19,5 @@ export PATH="/usr/local/lib:$PATH"
 export EDITOR=nvim
 
 alias e="nvim"
+alias lg="lazygit"
+alias ls="lsd"
