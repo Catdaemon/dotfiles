@@ -15,7 +15,7 @@ echo "Updating Homebrew..."
 brew update
 
 # Install packages from packages.macos.txt
-brew install powerlevel10k ripgrep ffind markdownlint-cli node yazi lazygit lsd zoxide jj tmux
+brew install powerlevel10k ripgrep ffind fzf markdownlint-cli node yazi lazygit lsd zoxide jj tmux
 
 # Install js DAP debugger
 if [ ! -d ~/dev/microsoft/vscode-node-debug2 ]; then
