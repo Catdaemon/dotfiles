@@ -29,3 +29,11 @@ alias ls="lsd"
 
 . "$HOME/.local/bin/env"
 
+# bun completions
+[ -s "/Users/carlton/.bun/_bun" ] && source "/Users/carlton/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+bindkey -e

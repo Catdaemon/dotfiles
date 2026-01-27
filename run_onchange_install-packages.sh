@@ -28,3 +28,8 @@ else
     echo "vscode-node-debug2 is already installed."
 fi
 
+# Install Bun
+curl -fsSL https://bun.sh/install | bash
+
+# Install critique globally using Bun
+bun install -g critique
